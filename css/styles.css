@@ -43,8 +43,9 @@ main button {
     margin: .5em 0;
     width: 50%
 }
-image {
-    width: 100%;
+img{
+    width: 50%;
+    position: absolute;
 }
 footer {
     background-color: #9a9c98;

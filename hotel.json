@@ -6,15 +6,15 @@
             "gym": "yes",
             "roomTypes": ["king", "queen", "double"],
             "address": "258 road street",
-            "picture": "images\room1.jpg"
-        },
+            "picture": "images/room1.jpg"
+        }, 
         {
             "name": "Sheraton",
             "rooms": "30",
             "gym": "no",
             "roomTypes": ["king", "queen"],
             "address": "23 main plaza",
-            "picture": "room2.jpg"
+            "picture": "images/room2.jpg"
         },
         {
             "name": "Hilton",
@@ -22,7 +22,7 @@
             "gym": "yes",
             "roomTypes": ["king", "queen", "accessible"],
             "address": "18 long view",
-            "picture": "room3.jpg"
+            "picture": "images/room3.jpg"
         }
     ]
 }
